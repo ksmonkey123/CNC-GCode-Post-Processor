@@ -1,0 +1,5 @@
+popup:
+  info: Information
+  warning: Warning
+  error: Error
+  confirm: Confirmation Needed
